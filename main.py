@@ -1,3 +1,9 @@
+from traceback import print_exc
+print=("mena esam")
+num1=3
+num2=5
+print=(num2+num1)
+
 # Change the following print statement so that it uses the addition operator + and prints out 8
 
 # Write a print statement that uses the division operator / 
